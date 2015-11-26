@@ -163,7 +163,7 @@
 	top: 0px;
 	left: 50%;
 	margin-left: -100px;
-	background: #fa96b5;
+	background: #c8e7fa;
 	-webkit-transform: translateY(-50%) rotate(45deg);
 	-moz-transform: translateY(-50%) rotate(45deg);
 	-o-transform: translateY(-50%) rotate(45deg);
@@ -359,10 +359,10 @@
 
 .st-color,
 .st-deco{
-	background: #fa96b5;
+	background: #c8e7fa;
 }
 .st-color [data-icon]:after {
-	color: #fa96b5;
+	color: #c8e7fa;
 }
 .st-color .st-deco {
 	background: #fff;
