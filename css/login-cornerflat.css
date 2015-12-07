@@ -19,6 +19,7 @@
 	text-align: center;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	background: #0157a4;
 }
 
 .login-button {
@@ -48,9 +49,9 @@
 .login-text {
 	display: block;
 	padding: 0.8em 0 0;
-	color: #fff;
+	color: #0157a4;
 	font-weight: 400;
-	font-size: 1.25em;
+	font-size: 1.6em;
 }
 
 .login-icon {
