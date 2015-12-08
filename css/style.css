@@ -509,7 +509,7 @@
 /*--- For products page ---*/
 
 .ac-container{
-	width: 780px;
+	width: 60%;
 	margin: 120px auto 30px auto;
 	text-align: left;
 }
@@ -609,8 +609,8 @@
 
 .da-thumbs {
 	list-style: none;
-	width: 984px;
-	height: 600px;
+	width: inherit;
+	height: auto;
 	position: relative;
 	margin: 20px auto;
 	padding: 0;
@@ -627,6 +627,8 @@
 .da-thumbs li a img {
 	display: block;
 	position: relative;
+	width: 200px;
+	height: 200px;
 }
 .da-thumbs li a {
 	overflow: hidden;
@@ -663,4 +665,10 @@
 }
 .da-thumbs li a:hover div{
 	left: 0px;
+}
+
+/* --- Social icons --- */
+.social-icons {
+	width: 72px;
+	height: 72px;
 }
